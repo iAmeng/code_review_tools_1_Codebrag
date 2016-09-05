@@ -106,3 +106,26 @@ Reviewing
 
 Comment
 ![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/codebrag_d.png?raw=true)
+
+### 7 Ubuntu 局域网访问
+实际使用的时候只在Localhost是不太方便的，希望局域网成员也能加入进来。
+现在补充一些Ubuntu局域网访问的内容
+1 Windows + VMware + Ubuntu
+2 VMware 网络模式 - Bridge
+3 关闭防火墙
+4 设置ip，mask，dns
+5 设置dns file
+
+WM网络，桥接模式
+![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/vm_a.png?raw=true)
+
+设置IP，mask，dns
+![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/vm_b.png?raw=true)
+![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/vm_c.png?raw=true)
+![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/vm_d.png?raw=true)
+
+设置DSN file
+![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/vm_e.png?raw=true)
+![image](https://github.com/iAmeng/code_review_tools_1_Codebrag/blob/master/images/vm_f.png?raw=true)
+
+!!! Enjoy:)
